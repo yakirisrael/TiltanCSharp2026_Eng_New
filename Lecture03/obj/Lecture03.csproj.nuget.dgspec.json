@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\Lecture03\\Lecture03.csproj": {}
+    "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\TiltanCSharp2026_Eng_New\\Lecture03\\Lecture03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\Lecture03\\Lecture03.csproj": {
+    "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\TiltanCSharp2026_Eng_New\\Lecture03\\Lecture03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\Lecture03\\Lecture03.csproj",
+        "projectUniqueName": "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\TiltanCSharp2026_Eng_New\\Lecture03\\Lecture03.csproj",
         "projectName": "Lecture03",
-        "projectPath": "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\Lecture03\\Lecture03.csproj",
+        "projectPath": "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\TiltanCSharp2026_Eng_New\\Lecture03\\Lecture03.csproj",
         "packagesPath": "C:\\Users\\yakir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\Lecture03\\obj\\",
+        "outputPath": "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\TiltanCSharp2026_Eng_New\\Lecture03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yakir\\AppData\\Roaming\\NuGet\\NuGet.Config",

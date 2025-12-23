@@ -1,3 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Working with Git Second time");
+bool b = false;
+
+Console.WriteLine(b ? "b is true" : "b is false");

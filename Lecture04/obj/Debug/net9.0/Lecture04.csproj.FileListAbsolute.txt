@@ -1,0 +1,15 @@
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\bin\Debug\net9.0\Lecture04.exe
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\bin\Debug\net9.0\Lecture04.deps.json
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\bin\Debug\net9.0\Lecture04.runtimeconfig.json
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\bin\Debug\net9.0\Lecture04.dll
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\bin\Debug\net9.0\Lecture04.pdb
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.AssemblyInfoInputs.cache
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.AssemblyInfo.cs
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.csproj.CoreCompileInputs.cache
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.sourcelink.json
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.dll
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\refint\Lecture04.dll
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.pdb
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\Lecture04.genruntimeconfig.cache
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture04\obj\Debug\net9.0\ref\Lecture04.dll

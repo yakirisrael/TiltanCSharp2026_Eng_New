@@ -1,6 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-string input = Console.ReadLine();
+
+int factorial(int number)
+{
+    if (number == 0)
+        return 1;
+    
+    return number * factorial(number - 1);
+}
+
+Console.WriteLine(factorial(5));
+
+/*string input = Console.ReadLine();
 
 float inputFloat;
 bool succeed = float.TryParse(input, out inputFloat);
@@ -8,7 +19,7 @@ bool succeed = float.TryParse(input, out inputFloat);
 do
 {
     succeed = float.TryParse(input, out inputFloat);
-    
+
     if (succeed)
     {
         Console.WriteLine("Correct value: " + inputFloat);
@@ -18,9 +29,9 @@ do
 
         Console.WriteLine("invalid value, try again");
         input = Console.ReadLine();
-        
+
     }
-} while (!succeed);
+} while (!succeed);*/
 
 /*
 void SayMessage(string message, string userName)

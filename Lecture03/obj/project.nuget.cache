@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+1N36PZ55aI=",
+  "dgSpecHash": "IfYycEAopZQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\yakir\\RiderProjects\\Tiltan2026_Eng\\TiltanCSharp2026_Eng_New\\Lecture03\\Lecture03.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yakir\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\yakir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\yakir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\yakir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

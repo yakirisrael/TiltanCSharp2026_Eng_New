@@ -1,9 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
+PlayerType type = PlayerType.Archer;
+Console.WriteLine((int)type);
+
+/*
 string input = Console.ReadLine();
 if (Validate(input))
-    Console.WriteLine("valid");
+    Console.WriteLine("valid"); */
+
 bool Validate(string str)
 {
     int MaxLength = 20;
@@ -47,4 +52,11 @@ bool IsUpperCase(char c)
 bool IsLowerCase(char c)
 {
     return (c >= 'a' && c <= 'z');
+}
+enum PlayerType
+{
+
+    Warrior,
+    Archer,
+    Mage,
 }

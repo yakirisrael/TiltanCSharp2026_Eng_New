@@ -2,8 +2,8 @@
 
 string[][] arrayItems = new string[2][] 
 {
-    new string[]{ "I", "Decide", "On", "It"},
-    new string[]{ "Different", "Size"}
+    new []{ "I", "Decide", "On", "It"},
+    new []{ "Different", "Size"}
 };
 
 foreach (var items in arrayItems)

@@ -1,0 +1,1 @@
+{"name":"Denis","health":200,"item":{"Type":2,"description":"do cool magic tricks"}}

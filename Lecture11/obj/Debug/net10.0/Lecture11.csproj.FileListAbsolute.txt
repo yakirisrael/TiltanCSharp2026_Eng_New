@@ -13,3 +13,5 @@ C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture11\o
 C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture11\obj\Debug\net10.0\Lecture11.pdb
 C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture11\obj\Debug\net10.0\Lecture11.genruntimeconfig.cache
 C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture11\obj\Debug\net10.0\ref\Lecture11.dll
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture11\obj\Debug\net10.0\Lecture11.csproj.AssemblyReference.cache
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\Lecture11\obj\Debug\net10.0\Lecture11.csproj.Up2Date

@@ -1,0 +1,12 @@
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\bin\Debug\net10.0\FileSystem.deps.json
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\bin\Debug\net10.0\FileSystem.dll
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\bin\Debug\net10.0\FileSystem.pdb
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\FileSystem.AssemblyInfoInputs.cache
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\FileSystem.AssemblyInfo.cs
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\FileSystem.sourcelink.json
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\FileSystem.dll
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\refint\FileSystem.dll
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\FileSystem.pdb
+C:\Users\yakir\RiderProjects\Tiltan2026_Eng\TiltanCSharp2026_Eng_New\FileSystem\obj\Debug\net10.0\ref\FileSystem.dll
